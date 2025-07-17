@@ -1,0 +1,17 @@
+{
+  "className": "MeshPart",
+  "properties": {
+    "Anchored": true,
+    "CFrame": [249.424407, 45.580459, 217.300582, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "CanCollide": false,
+    "CanTouch": false,
+    "Color": [137, 162, 255],
+    "DoubleSided": true,
+    "InitialSize": [3.654872, 35.356674, 3.44312],
+    "Material": "Neon",
+    "MeshContent": "rbxassetid://8353870995",
+    "RenderFidelity": "Precise",
+    "Size": [3.034161, 29.351999, 2.85837],
+    "Transparency": 0.5
+  }
+}

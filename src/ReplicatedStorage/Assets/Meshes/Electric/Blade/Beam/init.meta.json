@@ -1,0 +1,26 @@
+{
+  "className": "Beam",
+  "properties": {
+    "Brightness": 5,
+    "Color": [{
+        "time": 0.0,
+        "color": [0.0, 0.0, 0.0]
+      }, {
+        "time": 1.0,
+        "color": [0.537804, 0.433509, 0.998718]
+      }],
+    "CurveSize1": 4,
+    "Segments": 100,
+    "Transparency": [{
+        "time": 0.0,
+        "value": 0.0,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 0.0,
+        "envelope": 0.0
+      }],
+    "Width0": 0.2,
+    "Width1": 1.5
+  }
+}

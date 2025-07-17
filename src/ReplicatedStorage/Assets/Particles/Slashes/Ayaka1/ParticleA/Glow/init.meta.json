@@ -1,0 +1,48 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Color": [{
+        "time": 0.0,
+        "color": [1.0, 0.129412, 0.141176]
+      }, {
+        "time": 1.0,
+        "color": [1.0, 0.129412, 0.141176]
+      }],
+    "Lifetime": [0.25, 0.25],
+    "LightEmission": 1,
+    "Rate": 0,
+    "Size": [{
+        "time": 0.0,
+        "value": 0.0,
+        "envelope": 0.0
+      }, {
+        "time": 0.243636,
+        "value": 3.0,
+        "envelope": 0.0
+      }, {
+        "time": 0.734545,
+        "value": 8.0,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 8.125,
+        "envelope": 0.0
+      }],
+    "Speed": [0, 0],
+    "Texture": "rbxassetid://6523632761",
+    "Transparency": [{
+        "time": 0.0,
+        "value": 0.0,
+        "envelope": 0.0
+      }, {
+        "time": 0.5,
+        "value": 0.0,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 1.0,
+        "envelope": 0.0
+      }],
+    "ZOffset": 3
+  }
+}

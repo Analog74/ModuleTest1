@@ -1,0 +1,12 @@
+{
+  "className": "Part",
+  "properties": {
+    "CFrame": [34.173599, -25.199222, -11.73299, -1, 0, 0, 0, 1, 0, 0, 0, -1],
+    "CanCollide": false,
+    "Color": [255, 0, 0],
+    "Massless": true,
+    "Material": "Neon",
+    "Size": [1.25, 1.799998, 1.25],
+    "Transparency": 0.8
+  }
+}

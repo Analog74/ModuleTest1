@@ -1,0 +1,31 @@
+{
+  "className": "Beam",
+  "properties": {
+    "Brightness": 5,
+    "Color": [{
+        "time": 0.0,
+        "color": [0.56527, 0.60943, 0.998901]
+      }, {
+        "time": 1.0,
+        "color": [0.56527, 0.60943, 0.998901]
+      }],
+    "CurveSize0": -15,
+    "CurveSize1": 15,
+    "Segments": 100,
+    "Texture": "rbxassetid://8236412732",
+    "TextureLength": 4,
+    "TextureSpeed": 3,
+    "Transparency": [{
+        "time": 0.0,
+        "value": 0.0,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 0.0,
+        "envelope": 0.0
+      }],
+    "Width0": 5,
+    "Width1": 5,
+    "ZOffset": 1
+  }
+}

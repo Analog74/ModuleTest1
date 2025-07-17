@@ -1,0 +1,36 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Color": [{
+        "time": 0.0,
+        "color": [0.334127, 0.334112, 0.334127]
+      }, {
+        "time": 1.0,
+        "color": [0.334127, 0.334112, 0.334127]
+      }],
+    "Lifetime": [0.55, 0.75],
+    "LockedToPart": true,
+    "Rate": 125,
+    "RotSpeed": [300, 500],
+    "Rotation": [-360, 360],
+    "Shape": "Disc",
+    "ShapePartial": 2,
+    "Size": [{
+        "time": 0.0,
+        "value": 0.0,
+        "envelope": 0.0
+      }, {
+        "time": 0.102787,
+        "value": 0.75,
+        "envelope": 0.75
+      }, {
+        "time": 1.0,
+        "value": 0.0,
+        "envelope": 0.0
+      }],
+    "Speed": [5, 10],
+    "SpreadAngle": [-25, 25],
+    "Texture": "rbxassetid://8133790716",
+    "VelocityInheritance": 0.5
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "className": "Texture",
+  "properties": {
+    "Color3": [0.17647, 0.17647, 0.17647],
+    "Face": "Top",
+    "StudsPerTileU": 25.5,
+    "StudsPerTileV": 25.5,
+    "Texture": "http://www.roblox.com/asset/?id=7293805284"
+  }
+}

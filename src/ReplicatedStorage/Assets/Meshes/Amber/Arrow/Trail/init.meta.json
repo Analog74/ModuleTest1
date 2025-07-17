@@ -1,0 +1,34 @@
+{
+  "className": "Trail",
+  "properties": {
+    "Brightness": 5,
+    "Color": [{
+        "time": 0.0,
+        "color": [0.987472, 0.256245, 0.163653]
+      }, {
+        "time": 1.0,
+        "color": [0.987472, 0.256245, 0.163653]
+      }],
+    "FaceCamera": true,
+    "Lifetime": 0.174998,
+    "MinLength": 0,
+    "Transparency": [{
+        "time": 0.0,
+        "value": 0.0,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 0.0,
+        "envelope": 0.0
+      }],
+    "WidthScale": [{
+        "time": 0.0,
+        "value": 1.0,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 0.0,
+        "envelope": 0.0
+      }]
+  }
+}

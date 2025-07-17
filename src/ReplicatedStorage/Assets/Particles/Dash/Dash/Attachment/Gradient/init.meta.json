@@ -1,0 +1,32 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Brightness": 5,
+    "EmissionDirection": "Back",
+    "Lifetime": [0.449999, 0.449999],
+    "LockedToPart": true,
+    "Orientation": "VelocityPerpendicular",
+    "Rate": 8.5,
+    "Size": [{
+        "time": 0.0,
+        "value": 1.0,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 8.8125,
+        "envelope": 0.0
+      }],
+    "Speed": [15, 20],
+    "Texture": "rbxassetid://8030746658",
+    "Transparency": [{
+        "time": 0.0,
+        "value": 0.85,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 1.0,
+        "envelope": 0.0
+      }],
+    "ZOffset": 3
+  }
+}

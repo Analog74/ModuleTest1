@@ -1,0 +1,39 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Color": [{
+        "time": 0.0,
+        "color": [0.0, 1.0, 0.0]
+      }, {
+        "time": 1.0,
+        "color": [0.0, 1.0, 0.0]
+      }],
+    "Enabled": false,
+    "Lifetime": [0.1, 0.2],
+    "LightEmission": 1,
+    "LightInfluence": 1,
+    "Rate": 10000,
+    "Rotation": [0, 360],
+    "Size": [{
+        "time": 0.0,
+        "value": 18.0,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 18.0,
+        "envelope": 0.0
+      }],
+    "Speed": [100, 100],
+    "SpreadAngle": [90, 90],
+    "Transparency": [{
+        "time": 0.0,
+        "value": 0.0,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 0.3,
+        "envelope": 0.0
+      }],
+    "ZOffset": 5
+  }
+}

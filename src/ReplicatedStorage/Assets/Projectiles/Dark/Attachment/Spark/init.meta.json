@@ -1,0 +1,45 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Brightness": 4,
+    "Color": [{
+        "time": 0.0,
+        "color": [0.552865, 0.424109, 0.998718]
+      }, {
+        "time": 1.0,
+        "color": [0.552865, 0.424109, 0.998718]
+      }],
+    "Lifetime": [0.2, 0.3],
+    "LockedToPart": true,
+    "Rate": 15,
+    "Size": [{
+        "time": 0.0,
+        "value": 2.01896,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 11.0604,
+        "envelope": 0.0
+      }],
+    "Speed": [0, 0],
+    "Squash": [{
+        "time": 0.0,
+        "value": -0.2,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": -0.2,
+        "envelope": 0.0
+      }],
+    "Texture": "rbxassetid://8663130639",
+    "Transparency": [{
+        "time": 0.0,
+        "value": 0.0,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 1.0,
+        "envelope": 0.0
+      }]
+  }
+}

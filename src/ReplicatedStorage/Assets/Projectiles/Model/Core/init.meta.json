@@ -1,0 +1,17 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "Attributes": {
+      "ArchimedesID": "5F8B2ECE-DF83-4037-9071-A2899A639E90"
+    },
+    "BottomSurface": "Smooth",
+    "CFrame": [72.832275, 1.715062, 291.749267, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "CanCollide": false,
+    "Color": [248, 248, 248],
+    "Material": "SmoothPlastic",
+    "Size": [2, 2, 2],
+    "TopSurface": "Smooth",
+    "Transparency": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [-59.76715, 16.249992, -0.408203, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "CanCollide": false,
+    "CanTouch": false,
+    "CastShadow": false,
+    "Color": [9, 7, 12],
+    "Material": "ForceField",
+    "Shape": "Ball",
+    "Size": [32.5, 32.5, 32.5],
+    "TopSurface": "Smooth"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "className": "Beam",
+  "properties": {
+    "Brightness": 5,
+    "Color": [{
+        "time": 0.0,
+        "color": [0.25214, 0.349706, 0.998413]
+      }, {
+        "time": 1.0,
+        "color": [0.25214, 0.349706, 0.998413]
+      }],
+    "FaceCamera": true,
+    "Transparency": [{
+        "time": 0.0,
+        "value": 0.0,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 0.0,
+        "envelope": 0.0
+      }],
+    "Width0": 0,
+    "Width1": 0
+  }
+}

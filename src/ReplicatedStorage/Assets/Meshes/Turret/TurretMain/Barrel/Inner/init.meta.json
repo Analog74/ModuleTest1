@@ -1,0 +1,21 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "Attributes": {
+      "ArchimedesID": "5CA52CF4-855F-4E54-B5FB-738D8A55530D"
+    },
+    "BottomSurface": "Smooth",
+    "CFrame": [-90.328308, 3.447376, -139.221374, 0, 0, 1, 0, 1, 0, -1, 0, 0],
+    "CanCollide": false,
+    "CanQuery": false,
+    "CanTouch": false,
+    "CastShadow": false,
+    "Color": [0, 0, 0],
+    "Material": "SmoothPlastic",
+    "Reflectance": 0.5,
+    "Shape": "Cylinder",
+    "Size": [0.513875, 1, 4],
+    "TopSurface": "Smooth"
+  }
+}

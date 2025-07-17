@@ -1,0 +1,9 @@
+{
+  "className": "Decal",
+  "properties": {
+    "Color3": [0.992156, 0.537253, 0.10196],
+    "Face": "Top",
+    "Texture": "rbxassetid://8101204987",
+    "Transparency": 0.5
+  }
+}

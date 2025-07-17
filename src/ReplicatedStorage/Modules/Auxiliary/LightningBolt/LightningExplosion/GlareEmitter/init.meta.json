@@ -1,0 +1,43 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Color": [{
+        "time": 0.0,
+        "color": [0.0, 1.0, 0.0]
+      }, {
+        "time": 1.0,
+        "color": [0.0, 1.0, 0.0]
+      }],
+    "Enabled": false,
+    "Lifetime": [0.1, 0.1],
+    "LightEmission": 1,
+    "Rate": 5555,
+    "Rotation": [0, 360],
+    "Size": [{
+        "time": 0.0,
+        "value": 30.0,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 30.0,
+        "envelope": 0.0
+      }],
+    "Speed": [0, 0],
+    "SpreadAngle": [360, 360],
+    "Texture": "http://www.roblox.com/asset/?id=243660364",
+    "Transparency": [{
+        "time": 0.0,
+        "value": 1.0,
+        "envelope": 0.0
+      }, {
+        "time": 0.5,
+        "value": 0.74375,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 1.0,
+        "envelope": 0.0
+      }],
+    "ZOffset": 15
+  }
+}

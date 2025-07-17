@@ -1,0 +1,14 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [-258.807037, 21.015733, 448.17395, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "CanCollide": false,
+    "CanTouch": false,
+    "Color": [138, 111, 254],
+    "Material": "Neon",
+    "Size": [0.5, 6.468517, 0.5],
+    "TopSurface": "Smooth"
+  }
+}

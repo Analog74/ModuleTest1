@@ -1,0 +1,35 @@
+{
+  "className": "Trail",
+  "properties": {
+    "Brightness": 3,
+    "Color": [{
+        "time": 0.0,
+        "color": [0.989548, 0.452323, 0.462226]
+      }, {
+        "time": 1.0,
+        "color": [0.986206, 0.265156, 0.295857]
+      }],
+    "FaceCamera": true,
+    "Lifetime": 0.349999,
+    "MinLength": 0,
+    "Texture": "rbxassetid://8664417602",
+    "Transparency": [{
+        "time": 0.0,
+        "value": 0.0,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 0.0,
+        "envelope": 0.0
+      }],
+    "WidthScale": [{
+        "time": 0.0,
+        "value": 1.0,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 0.0,
+        "envelope": 0.0
+      }]
+  }
+}

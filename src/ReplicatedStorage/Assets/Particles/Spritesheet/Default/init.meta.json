@@ -1,0 +1,6 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "LightInfluence": 1
+  }
+}

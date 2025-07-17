@@ -1,0 +1,14 @@
+{
+  "className": "ImageLabel",
+  "properties": {
+    "AnchorPoint": [0.5, 0.5],
+    "BackgroundColor3": [1, 1, 1],
+    "BackgroundTransparency": 1,
+    "ImageContent": "http://www.roblox.com/asset/?id=7358433318",
+    "Position": [[0.5, 0.0], [0.5, 0.0]],
+    "Size": [[0.6000000238418579, 0.0], [0.6000000238418579, 0.0]],
+    "SizeConstraint": "RelativeXX",
+    "Visible": false,
+    "ZIndex": 5
+  }
+}

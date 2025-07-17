@@ -1,0 +1,41 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Brightness": 5,
+    "Color": [{
+        "time": 0.0,
+        "color": [0.992157, 0.8, 0.454902]
+      }, {
+        "time": 1.0,
+        "color": [0.992157, 0.8, 0.454902]
+      }],
+    "Drag": 3.5,
+    "EmissionDirection": "Left",
+    "Lifetime": [0.649999, 1],
+    "Rate": 0,
+    "RotSpeed": [-180, 180],
+    "Rotation": [-360, 360],
+    "Size": [{
+        "time": 0.0,
+        "value": 1.25,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 9.14062,
+        "envelope": 3.35938
+      }],
+    "Speed": [0, 43.75],
+    "SpreadAngle": [-65, 65],
+    "Texture": "rbxassetid://8037684238",
+    "Transparency": [{
+        "time": 0.0,
+        "value": 0.975,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 1.0,
+        "envelope": 0.0
+      }],
+    "ZOffset": 2.5
+  }
+}

@@ -1,0 +1,40 @@
+return {
+	["className"] = "MeshPart",
+	["properties"] = {
+		["Anchored"] = true,
+		["CFrame"] = {
+			-0.00288,
+			16.654624,
+			0.00077,
+			-1,
+			0,
+			0,
+			0,
+			1,
+			0,
+			0,
+			0,
+			-1,
+		},
+		["CanCollide"] = false,
+		["CastShadow"] = false,
+		["Color"] = {
+			100,
+			66,
+			248,
+		},
+		["InitialSize"] = {
+			1.687793,
+			1.444361,
+			1.675487,
+		},
+		["Material"] = "Neon",
+		["MeshContent"] = "rbxassetid://5435853405",
+		["RenderFidelity"] = "Precise",
+		["Size"] = {
+			1.687793,
+			1.444361,
+			1.675487,
+		},
+	},
+}

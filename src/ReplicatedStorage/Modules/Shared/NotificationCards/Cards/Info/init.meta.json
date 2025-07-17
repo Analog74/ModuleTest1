@@ -1,0 +1,10 @@
+{
+  "className": "Frame",
+  "properties": {
+    "BackgroundColor3": [1, 1, 1],
+    "BackgroundTransparency": 1,
+    "Position": [[0.390112966299057, 0.0], [0.6499999761581421, 0.0]],
+    "Size": [[0.0, 311.0], [0.0, 100.0]],
+    "Visible": false
+  }
+}

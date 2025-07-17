@@ -1,0 +1,15 @@
+{
+  "className": "Part",
+  "properties": {
+    "Attributes": {
+      "ArchimedesID": "C30377F3-D1F6-4C42-A732-42576E08EB41"
+    },
+    "BottomSurface": "Smooth",
+    "CFrame": [87.543945, 3.371197, 292.405395, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "CanCollide": false,
+    "Massless": true,
+    "Size": [11.307655, 6.742277, 11.436206],
+    "TopSurface": "Smooth",
+    "Transparency": 1
+  }
+}

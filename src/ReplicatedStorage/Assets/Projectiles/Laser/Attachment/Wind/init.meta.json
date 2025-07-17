@@ -1,0 +1,37 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Brightness": 4,
+    "EmissionDirection": "Left",
+    "Lifetime": [0.55, 0.75],
+    "Orientation": "VelocityPerpendicular",
+    "Rate": 40,
+    "RotSpeed": [400, 800],
+    "Rotation": [-360, 360],
+    "Size": [{
+        "time": 0.0,
+        "value": 0.0,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 3.94102,
+        "envelope": 1.03711
+      }],
+    "Speed": [12.721899, 12.721899],
+    "SpreadAngle": [-1, 1],
+    "Texture": "rbxassetid://8681315537",
+    "Transparency": [{
+        "time": 0.0,
+        "value": 1.0,
+        "envelope": 0.0
+      }, {
+        "time": 0.479094,
+        "value": 0.81875,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 1.0,
+        "envelope": 0.0
+      }]
+  }
+}

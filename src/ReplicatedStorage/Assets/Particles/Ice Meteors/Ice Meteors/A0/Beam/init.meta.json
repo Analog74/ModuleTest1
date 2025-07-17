@@ -1,0 +1,31 @@
+{
+  "className": "Beam",
+  "properties": {
+    "Brightness": 4,
+    "Color": [{
+        "time": 0.0,
+        "color": [0.509697, 0.664683, 0.998886]
+      }, {
+        "time": 1.0,
+        "color": [0.509697, 0.664683, 0.998886]
+      }],
+    "FaceCamera": true,
+    "Texture": "rbxassetid://9175143727",
+    "TextureLength": 0.5,
+    "TextureSpeed": 0.956812,
+    "Transparency": [{
+        "time": 0.0,
+        "value": 0.0,
+        "envelope": 0.0
+      }, {
+        "time": 0.501742,
+        "value": 0.0,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 1.0,
+        "envelope": 0.0
+      }],
+    "Width0": 7.5
+  }
+}

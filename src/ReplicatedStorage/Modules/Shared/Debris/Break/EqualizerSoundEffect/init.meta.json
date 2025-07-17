@@ -1,0 +1,7 @@
+{
+  "className": "EqualizerSoundEffect",
+  "properties": {
+    "LowGain": -15,
+    "MidGain": -5
+  }
+}

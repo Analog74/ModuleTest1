@@ -1,0 +1,66 @@
+{
+  "className": "ParticleEmitter",
+  "properties": {
+    "Acceleration": [0, -4.488749, 0],
+    "Attributes": {
+      "EmitCount": 55
+    },
+    "Brightness": 6,
+    "Color": [{
+        "time": 0.0,
+        "color": [0.991577, 0.575906, 0.224475]
+      }, {
+        "time": 0.216667,
+        "color": [0.920364, 0.309539, 0.112616]
+      }, {
+        "time": 0.445,
+        "color": [0.200663, 0.0826915, 0.0399825]
+      }, {
+        "time": 1.0,
+        "color": [0.170687, 0.0732433, 0.0369573]
+      }],
+    "Drag": 7,
+    "Lifetime": [0.699998, 1.149999],
+    "Rate": 0,
+    "RotSpeed": [-30, 30],
+    "Rotation": [-360, 360],
+    "Size": [{
+        "time": 0.0,
+        "value": 0.0,
+        "envelope": 0.0
+      }, {
+        "time": 0.15,
+        "value": 1.89,
+        "envelope": 0.147
+      }, {
+        "time": 1.0,
+        "value": 2.74214,
+        "envelope": 0.734503
+      }],
+    "Speed": [0, 23.5041],
+    "SpreadAngle": [-90, 90],
+    "Texture": "rbxassetid://8120749500",
+    "Transparency": [{
+        "time": 0.0,
+        "value": 1.0,
+        "envelope": 0.0
+      }, {
+        "time": 0.0990371,
+        "value": 0.0,
+        "envelope": 0.0
+      }, {
+        "time": 0.204952,
+        "value": 0.0,
+        "envelope": 0.0
+      }, {
+        "time": 0.354883,
+        "value": 0.586022,
+        "envelope": 0.0
+      }, {
+        "time": 1.0,
+        "value": 1.0,
+        "envelope": 0.0
+      }],
+    "ZOffset": 2.168775
+  }
+}
