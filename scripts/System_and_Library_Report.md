@@ -50,6 +50,25 @@ This document provides an overview of every module and script in the __MasterScr
 | [AmberHit.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/AmberHit.luau) | Particle and sound logic for amber hits | Ability "Amber" effects | [AbilityTemplate.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/AbilityTemplate.luau) | Parameterize color, timing | - |
 | [Baal.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/Baal.luau) | Visual and logic for "Baal" ability | Ability "Baal" execution | [AbilityTemplate.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/AbilityTemplate.luau) | Separate FX and logic | - |
 | [Lightning.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/Lightning.luau) | Lightning effect logic | Ability "Lightning" execution | [LightningBolt/init.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Auxiliary/LightningBolt/init.luau) | Sync with audio, network optimization | - |
+| [LightningHit.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/LightningHit.luau) | Lightning hit particle and sound effect | Ability "Lightning" hit FX | [CameraShaker], [LightningBolt], [RockModule] | Add more lightning types | - |
+| [Ayaka.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/Ayaka.luau) | Visual FX and camera shake for Ayaka ability | Ability "Ayaka" execution | [CameraShaker], [LightningBolt], [RockModule] | Add more FX, parameterize shake | - |
+| [Birdcage.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/Birdcage.luau) | Creates a circular particle effect and sound | Ability "Birdcage" execution | [CameraShaker], [RockModule] | Add more geometry options | - |
+| [BladeHit.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/BladeHit.luau) | Electric blade hit effect | Ability "Blade" execution | [CameraShaker], [LightningBolt] | Add more sound/particle variants | - |
+| [DarkHit.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/DarkHit.luau) | Dark hit particle and sound effect | Ability "Dark" execution | [CameraShaker], [RockModule] | Add more visual variants | - |
+| [FireballHit.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/FireballHit.luau) | Fireball hit particle and sound effect | Ability "Fireball" execution | [CameraShaker], [RockModule] | Add more fireball types | - |
+| [GateHit.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/GateHit.luau) | Sword gate hit effect | Ability "Gate" execution | [CameraShaker], [LightningBolt] | Add more gate types | - |
+| [GateSword.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/GateSword.luau) | Sword gate visual effect | Ability "GateSword" execution | [CameraShaker], [LightningBolt] | Add more sword types | - |
+| [GeometryHit.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/GeometryHit.luau) | Geometry hit particle and sound effect | Ability "Geometry" execution | [CameraShaker], [RockModule] | Add more geometry types | - |
+| [HeartHit.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/HeartHit.luau) | Heart hit particle and sound effect | Ability "Heart" execution | [CameraShaker], [RockModule] | Add more heart types | - |
+| [Hex.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/Hex.luau) | Hex circle visual and sound effect | Ability "Hex" execution | [CameraShaker], [LightningBolt] | Add more hex types | - |
+| [Ice Meteors Hit.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/Ice%20Meteors%20Hit.luau) | Ice meteors hit effect | Ability "Ice Meteors" execution | [CameraShaker], [RockModule] | Add more meteor types | - |
+| [IceHit.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/IceHit.luau) | Ice hit particle and sound effect | Ability "Ice" execution | [CameraShaker], [RockModule] | Add more ice types | - |
+| [LaserHit.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/LaserHit.luau) | Laser hit particle and sound effect | Ability "Laser" execution | [CameraShaker], [RockModule] | Add more laser types | - |
+| [Meteors Hit.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/Meteors%20Hit.luau) | Meteor hit effect | Ability "Meteors" execution | [CameraShaker], [RockModule] | Add more meteor types | - |
+| [Orb.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/Orb.luau) | Orb visual and sound effect | Ability "Orb" execution | [CameraShaker], [LightningBolt] | Add more orb types | - |
+| [PoisonGas.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/PoisonGas.luau) | Poison gas visual and sound effect | Ability "PoisonGas" execution | [CameraShaker], [RockModule] | Add more poison types | - |
+| [Xiangling.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/Xiangling.luau) | Xiangling ability visual and sound effect | Ability "Xiangling" execution | [CameraShaker], [LightningBolt] | Add more Xiangling types | - |
+| [Xinyan.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/Xinyan.luau) | Xinyan ability visual and sound effect | Ability "Xinyan" execution | [CameraShaker], [RockModule] | Add more Xinyan types | - |
 
 ### 1.5 Third-Party Libraries
 | Name | Description | Use Scenarios | Dependencies | Future Improvements | Notes |
@@ -139,7 +158,25 @@ Below is a complete, recursive list of all module and script files under `src/Re
       - [AmberHit.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/AmberHit.luau)
       - [Baal.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/Baal.luau)
       - [Lightning.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/Lightning.luau)
-      - ...other ability templates
+      - [LightningHit.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/LightningHit.luau)
+      - [Ayaka.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/Ayaka.luau)
+      - [Birdcage.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/Birdcage.luau)
+      - [BladeHit.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/BladeHit.luau)
+      - [DarkHit.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/DarkHit.luau)
+      - [FireballHit.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/FireballHit.luau)
+      - [GateHit.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/GateHit.luau)
+      - [GateSword.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/GateSword.luau)
+      - [GeometryHit.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/GeometryHit.luau)
+      - [HeartHit.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/HeartHit.luau)
+      - [Hex.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/Hex.luau)
+      - [Ice Meteors Hit.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/Ice%20Meteors%20Hit.luau)
+      - [IceHit.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/IceHit.luau)
+      - [LaserHit.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/LaserHit.luau)
+      - [Meteors Hit.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/Meteors%20Hit.luau)
+      - [Orb.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/Orb.luau)
+      - [PoisonGas.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/PoisonGas.luau)
+      - [Xiangling.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/Xiangling.luau)
+      - [Xinyan.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/Templates/Abilities/Xinyan.luau)
   - **ThirdParty/**
     - **Fusion/**
       - [init.luau](https://github.com/Analog74/ModuleTest1/blob/master/src/ReplicatedStorage/Modules/ThirdParty/Fusion/init.luau)
